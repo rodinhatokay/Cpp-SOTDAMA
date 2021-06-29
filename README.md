@@ -10,7 +10,7 @@ The geographical space is defined using a two-dimensional Euclidean space; the u
  3. Knight (patrols area)
  4. Thug (raids Peasants)
  
-each agent can be found in one of the modes:
+each agent can be found in one of the states:
 - stopped
 - dead
 - Moving to
